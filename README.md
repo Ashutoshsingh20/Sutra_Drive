@@ -21,7 +21,7 @@ This repository currently contains the Phase 1 iPad foundation: a compilable Swi
 ./scripts/build.sh
 ```
 
-Open `ipad-app/Package.swift` in a full Xcode installation, select the `SutraDriveApp` scheme and an iPad simulator/device, then Run. Command-line validation requires Swift 6.0 or newer. A full iPad build requires Xcode with the iPadOS SDK.
+Open `ipad-app/Package.swift` in a full Xcode installation, select the `KalpanaDriveApp` scheme and an iPad simulator/device, then Run. Command-line validation requires Swift 6.0 or newer. A full iPad build requires Xcode with the iPadOS SDK.
 
 ## Phase 1 status
 
